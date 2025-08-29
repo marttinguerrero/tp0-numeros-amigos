@@ -1,0 +1,4 @@
+Versión mínima de Python: 3.10
+Dependencias: Estándar de Python
+Línea para ejecutar el programa: python3 amigos.py MAX (Reemplazar MAX por el número máximo que se desee)
+Entrada/Salida: la función amigos(MAX) imprime los pares amigos encontrados (con i < s) y al final el tiempo total de ejecución.
